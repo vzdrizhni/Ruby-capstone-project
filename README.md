@@ -10,14 +10,15 @@ Getting Started
 - CD to a bin folder
 - Run command "ruby main.rb"
 
-Author
+## Author
 👤 Roman Nikolaev
 
 Github: @githubhandle
 Twitter: @twitterhandle
 Linkedin: linkedin
-Show your support
+
+## Show your support
 Give a ⭐️ if you like this project!
 
-Acknowledgments
+## Acknowledgments
 Hat tip to Microverse
