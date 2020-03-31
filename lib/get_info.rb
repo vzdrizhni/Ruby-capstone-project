@@ -21,6 +21,7 @@ class Info
       link = link[0..56]
       page_number += 1
     end
+    guitars
   end
 end
 # rubocop:enable Security/Open
