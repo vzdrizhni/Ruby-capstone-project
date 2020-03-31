@@ -12,9 +12,9 @@ Getting Started
 - Run command "ruby main.rb"
 
 ## Screenshots
-[Screenshot](../images/1.png)
+![Screenshot](./images/1.png)
 `````````````````````````````
-[Screenshot](images/2.png)
+![Screenshot](./images/2.png)
 `````````````````````````````
 ## Author
 👤 Roman Nikolaev
