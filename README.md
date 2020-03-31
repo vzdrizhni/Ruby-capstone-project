@@ -1,5 +1,6 @@
 # Ruby-capstone-project
-A web scrapper
+A web scrapper.
+
 Web scraping, web harvesting, or web data extraction is data scraping used for extracting data from websites. This Webscrapper collects and stores data of all electric guitars from the guitar shop website(https://www.replayguitar.com/collections/electric-guitars?page=1).
 
 ## Built With
