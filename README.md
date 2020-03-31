@@ -10,10 +10,11 @@ Getting Started
 - Go to a root folder
 - CD to a bin folder
 - Run command "ruby main.rb"
+![Screenshot](./images/instr.png)
 
-## Screenshots
+## Screenshots of the code
 ![Screenshot](./images/1.png)
-`````````````````````````````
+
 ![Screenshot](./images/2.png)
 `````````````````````````````
 ## Author
