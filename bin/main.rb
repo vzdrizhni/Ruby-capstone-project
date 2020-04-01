@@ -18,5 +18,6 @@ class Scrapper
 end
 
 page = Scrapper.new('https://www.replayguitar.com/collections/electric-guitars')
-puts page.guitars
+file_to_save = File.new("./saves/" + Time.now.strftime('%Y-%m-%d_%H-%M-%S') + ".txt", 'w+')
+file_to_save.puts(page.guitars)
 # rubocop:enable Security/Open
