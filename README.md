@@ -3,6 +3,10 @@ A web scrapper.
 
 Web scraping, web harvesting, or web data extraction is data scraping used for extracting data from websites. This Webscrapper collects and stores data of all electric guitars from the guitar shop website(https://www.replayguitar.com/collections/electric-guitars?page=1) inside a txt file.
 
+## Potential future features
+- Add user interface
+- Add front-end
+
 ## Built With
 - Ruby
 - Nokogiri
